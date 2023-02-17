@@ -20,7 +20,7 @@ This is a fun arcade-style game where the player takes control of a turtle and t
 
 2. Type the command `python game.py` to start the game.
 
-3. Control the turtle using the arrow keys to move up, down, left, and right.
+3. Control the turtle using the 'Up' arrow key to move up.
 
 4. The objective is to safely reach the other side of the road without getting hit by any cars.
 
