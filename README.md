@@ -18,7 +18,7 @@ This is a fun arcade-style game where the player takes control of a turtle and t
 
 1. Open a terminal or command prompt and navigate to the directory where the game code is saved.
 
-2. Type the command `python game.py` to start the game.
+2. Type the command `python main.py` to start the game.
 
 3. Control the turtle using the 'Up' arrow key to move up.
 
